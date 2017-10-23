@@ -119,7 +119,8 @@ which is the main direction of my work in the future.
 - Factorization Meets the Item Embedding- Regularizing Matrix Factorization with Item Co-occurrence (2016), D Liang, J Altosaar, L Charlin, DM Blei.
   [[pdf]](https://pdfs.semanticscholar.org/f14f/c33e0a351dff4f4e02510276604a93d1b9fa.pdf)
 
-
+- Probabilistic Matrix Factorization (2007), R Salakhutdinov, A Mnih.
+  [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)  [[code]](https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python)
 
 
 ### Click-Through-Rate(CTR) Prediction
@@ -224,3 +225,17 @@ which is the main direction of my work in the future.
 
 - A hybrid approach to item recommendation in folksonomies (2009), Wetzker R, Umbrath W, Said A.
   [[pdf]](http://www.dai-labor.de/fileadmin/Files/Publikationen/Buchdatei/wetzker_folksonomyrecommendation_esair2009_final.pdf)
+
+
+### Blogs
+- Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
+Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
+
+- 深度学习在推荐算法上的应用进展.
+ Source: http://blog.csdn.net/u010412858/article/details/78313840
+
+
+### Tutorials
+- Deep Learning for Recommender Systems by Balázs Hidasi. [RecSys Summer School](http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano. [Slides](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
+
+- Deep Learning for Recommender Systems by Alexandros	Karatzoglou and Balázs	Hidasi. RecSys2017 Tutorial. [Slides](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
