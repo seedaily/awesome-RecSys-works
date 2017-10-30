@@ -101,7 +101,7 @@ which is the main direction of my work in the future.
 
 - Recurrent Recommender Networks (2017), Chao-Yuan Wu.[[pdf]](http://delivery.acm.org/10.1145/3020000/3018689/p495-wu.pdf?ip=221.226.125.130&id=3018689&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=995126498&CFTOKEN=96329132&__acm__=1508034746_8da751768f4ee19af912968914bbbaa6)
 
-- **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation (2016), Kim D, Park C, Oh J, et al. .[[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code](https://github.com/cartopy/ConvMF)][[知乎](https://zhuanlan.zhihu.com/p/27070343)]
+- **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation (RecSys 2016), Kim D, Park C, Oh J, et al. .[[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code](https://github.com/cartopy/ConvMF)][[知乎](https://zhuanlan.zhihu.com/p/27070343)][[PPT](http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf)]
 
 
 ### Matrix Factorization
