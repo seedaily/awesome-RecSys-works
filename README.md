@@ -101,6 +101,7 @@ which is the main direction of my work in the future.
 
 - Recurrent Recommender Networks (2017), Chao-Yuan Wu.[[pdf]](http://delivery.acm.org/10.1145/3020000/3018689/p495-wu.pdf?ip=221.226.125.130&id=3018689&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=995126498&CFTOKEN=96329132&__acm__=1508034746_8da751768f4ee19af912968914bbbaa6)
 
+- **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation (2016), Kim D, Park C, Oh J, et al. .[[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code](https://github.com/cartopy/ConvMF)][[知乎](https://zhuanlan.zhihu.com/p/27070343)]
 
 
 ### Matrix Factorization
@@ -231,8 +232,9 @@ which is the main direction of my work in the future.
 - Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
 
-- 深度学习在推荐算法上的应用进展.
- Source: http://blog.csdn.net/u010412858/article/details/78313840
+- [知乎： 深度学习在推荐算法上的应用进展](http://blog.csdn.net/u010412858/article/details/78313840).
+
+- [Quora: Has there been any work on using deep learning for recommendation engines?](https://www.quora.com/Has-there-been-any-work-on-using-deep-learning-for-recommendation-engines).
 
 
 ### Tutorials
