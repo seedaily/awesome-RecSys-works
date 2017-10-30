@@ -59,7 +59,7 @@ I will continue to update this section for a while till I finish my dissertation
 Maybe some papers of this section can't be downloaded,
 please email me and I will send the pdf to you.
 
-Email again:    [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
+Email again:    [hailinfufu@outlook.com](hailinfufu@outlook.com)
 
 
 ## Recent Papers 
