@@ -80,8 +80,8 @@ which is the main direction of my work in the future.
 - AutoRec- Autoencoders Meet Collaborative Filtering (2015), Suvash Sedhain, Aditya Krishna Menon, et al.
   [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
 
-- Collaborative Deep Learning for Recommender Systems (2015), Hao Wang, N Wang, Dityan Yeung.
-  [[pdf]](http://www.wanghao.in/mis/CDL.pdf)
+- **CDL**:Collaborative Deep Learning for Recommender Systems (2015), Hao Wang, N Wang, Dityan Yeung.
+  [[pdf](https://arxiv.org/pdf/1409.2944.pdf)][[code](https://github.com/akash13singh/mxnet-for-cdl)][[PPT](http://www.wanghao.in/mis/CDL.pdf)]
 
 - Deep Neural Networks for YouTube Recommendations (2016), Paul Covington, Jay Adams, Emre Sargin.
   [[pdf]](https://www.researchgate.net/publication/307573656_Deep_Neural_Networks_for_YouTube_Recommendations)
