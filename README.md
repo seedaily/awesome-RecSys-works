@@ -103,6 +103,8 @@ which is the main direction of my work in the future.
 
 - **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation (RecSys 2016), Kim D, Park C, Oh J, et al. .[[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code](https://github.com/cartopy/ConvMF)][[知乎](https://zhuanlan.zhihu.com/p/27070343)][[PPT](http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf)]
 
+- Collaborative Filtering with Recurrent Neural Networks by Robin Devooght [[pdf](https://arxiv.org/pdf/1608.07400.pdf)][[code](https://github.com/rdevooght/sequence-based-recommendations)]
+
 
 ### Matrix Factorization
 - SVD-based collaborative filtering with privacy (2005), Polat H, Du W. 
