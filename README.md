@@ -106,6 +106,9 @@ which is the main direction of my work in the future.
 - Collaborative Filtering with Recurrent Neural Networks by Robin Devooght [[pdf](https://arxiv.org/pdf/1608.07400.pdf)][[code](https://github.com/rdevooght/sequence-based-recommendations)]
 
 
+- Session-based Recommendations with Recurrent Neural Networks(ICLR 2016) [[pdf](https://arxiv.org/pdf/1511.06939.pdf)][[code](https://github.com/hidasib/GRU4Rec)]
+
+
 ### Matrix Factorization
 - SVD-based collaborative filtering with privacy (2005), Polat H, Du W. 
   [[pdf]](http://www.cis.syr.edu/~wedu/Research/paper/sac2004.pdf)
