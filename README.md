@@ -108,6 +108,7 @@ which is the main direction of my work in the future.
 
 - Session-based Recommendations with Recurrent Neural Networks(ICLR 2016) [[pdf](https://arxiv.org/pdf/1511.06939.pdf)][[code](https://github.com/hidasib/GRU4Rec)]
 
+- A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems(AAAI-17，上海携程) [[pdf](https://arxiv.org/pdf/1511.06939.pdf)][[blog](http://www.cnblogs.com/suanec/p/6636570.html)][[PPT](http://techshow.ctrip.com/wp-content/uploads/2016/12/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%B7%B7%E5%90%88%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E6%A8%A1%E5%9E%8B-%E8%91%A3%E9%91%AB.pdf)]
 
 ### Matrix Factorization
 - SVD-based collaborative filtering with privacy (2005), Polat H, Du W. 
