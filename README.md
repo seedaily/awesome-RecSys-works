@@ -258,4 +258,5 @@ Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recomm
 - Deep Neural Networks for YouTube Recommendations. [pdf](https://research.google.com/pubs/pub45530.html)
 
 ### 推荐系统工程师技能树
-![image](https://github.com/fuhailin/Probabilistic-Matrix-Factorization/blob/master/docs/PMF.png)
+- 推荐系统工程师技能树
+[pdf](https://github.com/fuhailin/awesome-RecSys-works/blob/master/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8A%80%E8%83%BD%E6%A0%91.pdf)
