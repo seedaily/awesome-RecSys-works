@@ -247,3 +247,15 @@ Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recomm
 - Deep Learning for Recommender Systems by Balázs Hidasi. [RecSys Summer School](http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano. [Slides](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
 
 - Deep Learning for Recommender Systems by Alexandros	Karatzoglou and Balázs	Hidasi. RecSys2017 Tutorial. [Slides](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
+
+### 推荐系统工程师AI应用岗位必读
+- Coursera Recommender Systems 专项课程. [Coursera](https://www.coursera.org/specializations/recommender-systems)
+
+- Item-Based Collaborative Filtering Recommendation Algorithms. [pdf](http://www.ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
+
+- The Netflix Recommender System: Algorithms, Business Value, and Innovation. [pdf](https://dl.acm.org/citation.cfm?id=2843948)
+
+- Deep Neural Networks for YouTube Recommendations. [pdf](https://research.google.com/pubs/pub45530.html)
+
+### 推荐系统工程师技能树
+![image](https://github.com/fuhailin/Probabilistic-Matrix-Factorization/blob/master/docs/PMF.png)
