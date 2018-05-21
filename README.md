@@ -118,6 +118,7 @@ which is the main direction of my work in the future.
 
 - **DREAM**:A Dynamic Recurrent Model for Next Basket Recommendation [[pdf](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/A%20Dynamic%20Recurrent%20Model%20for%20Next%20Basket%20Recommendation.pdf)][[code](https://github.com/LaceyChen17/DREAM)]
 
+- **TCN**:A Dynamic Recurrent Model for Next Basket Recommendation [[pdf](https://arxiv.org/pdf/1803.01271.pdf)][[code](https://github.com/locuslab/TCN)]
 
 ### Matrix Factorization
 - SVD-based collaborative filtering with privacy (2005), Polat H, Du W. 
