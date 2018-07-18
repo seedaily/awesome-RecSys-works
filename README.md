@@ -75,7 +75,26 @@ which is the main direction of my work in the future.
 
 - Collaborative Deep Embedding via Dual Networks (2017), Yilei Xiong, Dahua Lin, et al.[[pdf]](https://openreview.net/pdf?id=r1w7Jdqxl)
 
-- Recurrent Recommender Networks (2017), Chao-Yuan Wu.[[pdf]](http://delivery.acm.org/10.1145/3020000/3018689/p495-wu.pdf?ip=221.226.125.130&id=3018689&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=995126498&CFTOKEN=96329132&__acm__=1508034746_8da751768f4ee19af912968914bbbaa6)
+- Recurrent Recommender Networks //WSDM '17. [[pdf]](http://delivery.acm.org/10.1145/3020000/3018689/p495-wu.pdf?ip=221.226.125.130&id=3018689&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=995126498&CFTOKEN=96329132&__acm__=1508034746_8da751768f4ee19af912968914bbbaa6)
+```
+@inproceedings{Wu:2017:RRN:3018661.3018689,
+ author = {Wu, Chao-Yuan and Ahmed, Amr and Beutel, Alex and Smola, Alexander J. and Jing, How},
+ title = {Recurrent Recommender Networks},
+ booktitle = {Proceedings of the Tenth ACM International Conference on Web Search and Data Mining},
+ series = {WSDM '17},
+ year = {2017},
+ isbn = {978-1-4503-4675-7},
+ location = {Cambridge, United Kingdom},
+ pages = {495--503},
+ numpages = {9},
+ url = {http://doi.acm.org/10.1145/3018661.3018689},
+ doi = {10.1145/3018661.3018689},
+ acmid = {3018689},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {recommender systems, recurrent neural networks},
+} 
+```
 
 - **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation (RecSys 2016), Kim D, Park C, Oh J, et al. .[[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code](https://github.com/cartopy/ConvMF)][[知乎](https://zhuanlan.zhihu.com/p/27070343)][[PPT](http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf)]
 
