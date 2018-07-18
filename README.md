@@ -188,6 +188,29 @@ which is the main direction of my work in the future.
 
 ```
 
+- **FFM**:  Field-aware Factorization Machines in a Real-world Online Advertising System// WWW '17 Companion.[[pdf]](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) [[code](https://github.com/guestwalk/libffm)]
+```
+@inproceedings{Juan:2017:FFM:3041021.3054185,
+ author = {Juan, Yuchin and Lefortier, Damien and Chapelle, Olivier},
+ title = {Field-aware Factorization Machines in a Real-world Online Advertising System},
+ booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+ series = {WWW '17 Companion},
+ year = {2017},
+ isbn = {978-1-4503-4914-7},
+ location = {Perth, Australia},
+ pages = {680--688},
+ numpages = {9},
+ url = {https://doi.org/10.1145/3041021.3054185},
+ doi = {10.1145/3041021.3054185},
+ acmid = {3054185},
+ publisher = {International World Wide Web Conferences Steering Committee},
+ address = {Republic and Canton of Geneva, Switzerland},
+ keywords = {field-aware factorization machines, machine learning, performance advertising},
+} 
+
+
+```
+
 - **DeepFM**: DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// IJCAI 2017.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf) [[code](https://github.com/ChenglongChen/tensorflow-DeepFM)]
 ```
 @inproceedings{ijcai2017-239,
