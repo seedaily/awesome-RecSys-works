@@ -141,7 +141,29 @@ which is the main direction of my work in the future.
 
 
 ### Click-Through-Rate(CTR) Prediction
-- **DeepFM**:Guo H, Tang R, Ye Y, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf) [[code](https://github.com/ChenglongChen/tensorflow-DeepFM)]
+
+- **FM**: Factorization Machines[C]// ICDM 2010.[[pdf]](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) [[code](https://github.com/coreylynch/pyFM)]
+```
+@inproceedings{Rendle:2010:FM:1933307.1934620,
+ author = {Rendle, Steffen},
+ title = {Factorization Machines},
+ booktitle = {Proceedings of the 2010 IEEE International Conference on Data Mining},
+ series = {ICDM '10},
+ year = {2010},
+ isbn = {978-0-7695-4256-0},
+ pages = {995--1000},
+ numpages = {6},
+ url = {http://dx.doi.org/10.1109/ICDM.2010.127},
+ doi = {10.1109/ICDM.2010.127},
+ acmid = {1934620},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {factorization machine, sparse data, tensor factorization, support vector machine},
+} 
+
+```
+
+- **DeepFM**: DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// IJCAI 2017.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf) [[code](https://github.com/ChenglongChen/tensorflow-DeepFM)]
 ```
 @inproceedings{ijcai2017-239,
   author    = {Huifeng Guo and Ruiming TANG and Yunming Ye and Zhenguo Li and Xiuqiang He},
