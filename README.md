@@ -163,6 +163,31 @@ which is the main direction of my work in the future.
 
 ```
 
+- **libFM**:  Factorization Machines with libFM// ACM Trans 2012.[[pdf]](https://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) [[code](https://github.com/srendle/libfm)]
+```
+@article{Rendle:2012:FML:2168752.2168771,
+ author = {Rendle, Steffen},
+ title = {Factorization Machines with libFM},
+ journal = {ACM Trans. Intell. Syst. Technol.},
+ issue_date = {May 2012},
+ volume = {3},
+ number = {3},
+ month = may,
+ year = {2012},
+ issn = {2157-6904},
+ pages = {57:1--57:22},
+ articleno = {57},
+ numpages = {22},
+ url = {http://doi.acm.org/10.1145/2168752.2168771},
+ doi = {10.1145/2168752.2168771},
+ acmid = {2168771},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Factorization model, collaborative filtering, factorization machine, matrix factorization, recommender system, tensor factorization},
+} 
+
+```
+
 - **DeepFM**: DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// IJCAI 2017.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf) [[code](https://github.com/ChenglongChen/tensorflow-DeepFM)]
 ```
 @inproceedings{ijcai2017-239,
