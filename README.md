@@ -108,7 +108,7 @@ which is the main direction of my work in the future.
 - Factorization Meets the Item Embedding- Regularizing Matrix Factorization with Item Co-occurrence (2016), D Liang, J Altosaar, L Charlin, DM Blei.
   [[pdf]](https://pdfs.semanticscholar.org/f14f/c33e0a351dff4f4e02510276604a93d1b9fa.pdf)
 
-- **PFM**: Probabilistic Matrix Factorization // NIPS'07. [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)  [[code]](https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python)
+- **PMF**: Probabilistic Matrix Factorization // NIPS'07. [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)  [[code]](https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python)
 ```
 @inproceedings{Salakhutdinov:2007:PMF:2981562.2981720,
  author = {Salakhutdinov, Ruslan and Mnih, Andriy},
