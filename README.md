@@ -142,7 +142,7 @@ which is the main direction of my work in the future.
 
 ### Click-Through-Rate(CTR) Prediction
 
-- **FM**: Factorization Machines[C]// ICDM 2010.[[pdf]](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) [[code](https://github.com/coreylynch/pyFM)]
+- **FM**: Factorization Machines// ICDM 2010.[[pdf]](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) [[code](https://github.com/coreylynch/pyFM)]
 ```
 @inproceedings{Rendle:2010:FM:1933307.1934620,
  author = {Rendle, Steffen},
@@ -175,6 +175,30 @@ which is the main direction of my work in the future.
   doi       = {10.24963/ijcai.2017/239},
   url       = {https://doi.org/10.24963/ijcai.2017/239},
 }
+
+```
+
+
+- **DCN**: Deep & Cross Network for Ad Click Predictions// ADKDD'17.[[pdf]](http://delivery.acm.org/10.1145/3130000/3124754/a12-Wang.pdf?ip=103.38.28.66&id=3124754&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1531927522_3c7cdb3fd9eabf099662793044491e20) [[Keras](https://github.com/Nirvanada/Deep-and-Cross-Keras)][[Tensorflow](https://github.com/flyzaway/Deep-Cross-Tensorflow)]
+```
+@inproceedings{Wang:2017:DCN:3124749.3124754,
+ author = {Wang, Ruoxi and Fu, Bin and Fu, Gang and Wang, Mingliang},
+ title = {Deep \& Cross Network for Ad Click Predictions},
+ booktitle = {Proceedings of the ADKDD'17},
+ series = {ADKDD'17},
+ year = {2017},
+ isbn = {978-1-4503-5194-2},
+ location = {Halifax, NS, Canada},
+ pages = {12:1--12:7},
+ articleno = {12},
+ numpages = {7},
+ url = {http://doi.acm.org/10.1145/3124749.3124754},
+ doi = {10.1145/3124749.3124754},
+ acmid = {3124754},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {CTR Prediction, Deep Learning, Feature Crossing, Neural Networks},
+} 
 
 ```
 
