@@ -24,34 +24,6 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
-## 2017-10-16~ 2017-10-22
-
-- Van den Oord A, Dieleman S, Schrauwen B. Deep content-based music 
-  recommendation[C]//Advances in neural information processing systems. 2013: 2643-2651.[[pdf]](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf) 
-- Rendle, Steffen. "Factorization machines with libfm." *ACM Transactions on Intelligent Systems and Technology (TIST)* 3.3 (2012): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
-- Juan Y, Zhuang Y, Chin W S, et al. Field-aware factorization machines for CTR prediction[C]//Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016: 43-50.[[pdf]](http://ntucsu.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) 
-- Rendle S, Schmidt-Thieme L. Pairwise interaction tensor factorization for personalized tag recommendation[C]//Proceedings of the third ACM international conference on Web search and data mining. ACM, 2010: 81-90.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010-PITF.pdf) 
-- Blondel M, Fujino A, Ueda N, et al. Higher-order factorization machines[C]//Advances in Neural Information Processing Systems. 2016: 3351-3359.[[pdf]](http://papers.nips.cc/paper/6144-higher-order-factorization-machines.pdf) 
-- Rendle S. Factorization machines with libfm[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2012, 3(3): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
-- Yin Lou, Mikhail Obukhov. BDT- Boosting Decision Tables for High Accuracy and Scoring Efficiency. KDD2017.[[pdf]](http://delivery.acm.org/10.1145/3100000/3098175/p1893-lou.pdf?ip=114.221.71.73&id=3098175&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&CFID=996660400&CFTOKEN=49966860&__acm__=1508423525_a65e902e920624f4b0cca5049fee3916) 
-- Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for E icient Personal Recommendation[J]. 2017. [[pdf]](http://people.cs.vt.edu/naren/papers/recs254-ningA.pdf) 
-- ​
-
----
-
-## 2017-10-9 ~ 2017-10-15
-
-- Qu Y, Cai H, Ren K, et al. Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
-- Zhang W, Du T, Wang J, et al. Deep Learning over Multi-field Categorical Data[C]. european conference on information retrieval, 2016: 45-57.
-
-- Xiao J, Ye H, He X, et al. Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks[J]. 2017.[[pdf]](https://ru.arxiv.org/pdf/1708.04617.pdf)
-- Chen J, Sun B, Li H, et al. Deep ctr prediction in display 
-  advertising[C]//Proceedings of the 2016 ACM on Multimedia Conference. 
-  ACM, 2016: 811-820.[[pdf]](https://arxiv.org/pdf/1609.06018.pdf) 
-- Shan Y, Hoens T R, Jiao J, et al. Deep Crossing: Web-scale modeling 
-  without manually crafted combinatorial features[C]//Proceedings of the 
-  22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016: 255-262.[[pdf]](www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf) 
-
 ---
 
 ## Lastest Paper
@@ -188,27 +160,25 @@ which is the main direction of my work in the future.
 
 ```
 
-- **FFM**:  Field-aware Factorization Machines in a Real-world Online Advertising System// WWW '17 Companion.[[pdf]](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) [[code](https://github.com/guestwalk/libffm)]
+- **FFM**: Field-aware Factorization Machines for CTR Prediction// RecSys '16.[[pdf]](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) [[code](https://github.com/guestwalk/libffm)]
 ```
-@inproceedings{Juan:2017:FFM:3041021.3054185,
- author = {Juan, Yuchin and Lefortier, Damien and Chapelle, Olivier},
- title = {Field-aware Factorization Machines in a Real-world Online Advertising System},
- booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
- series = {WWW '17 Companion},
- year = {2017},
- isbn = {978-1-4503-4914-7},
- location = {Perth, Australia},
- pages = {680--688},
- numpages = {9},
- url = {https://doi.org/10.1145/3041021.3054185},
- doi = {10.1145/3041021.3054185},
- acmid = {3054185},
- publisher = {International World Wide Web Conferences Steering Committee},
- address = {Republic and Canton of Geneva, Switzerland},
- keywords = {field-aware factorization machines, machine learning, performance advertising},
+@inproceedings{Juan:2016:FFM:2959100.2959134,
+ author = {Juan, Yuchin and Zhuang, Yong and Chin, Wei-Sheng and Lin, Chih-Jen},
+ title = {Field-aware Factorization Machines for CTR Prediction},
+ booktitle = {Proceedings of the 10th ACM Conference on Recommender Systems},
+ series = {RecSys '16},
+ year = {2016},
+ isbn = {978-1-4503-4035-9},
+ location = {Boston, Massachusetts, USA},
+ pages = {43--50},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/2959100.2959134},
+ doi = {10.1145/2959100.2959134},
+ acmid = {2959134},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {click-through rate prediction, computational advertising, factorization machines, machine learning},
 } 
-
-
 ```
 
 - **DeepFM**: DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// IJCAI 2017.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf) [[code](https://github.com/ChenglongChen/tensorflow-DeepFM)]
