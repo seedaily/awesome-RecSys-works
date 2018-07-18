@@ -108,8 +108,24 @@ which is the main direction of my work in the future.
 - Factorization Meets the Item Embedding- Regularizing Matrix Factorization with Item Co-occurrence (2016), D Liang, J Altosaar, L Charlin, DM Blei.
   [[pdf]](https://pdfs.semanticscholar.org/f14f/c33e0a351dff4f4e02510276604a93d1b9fa.pdf)
 
-- Probabilistic Matrix Factorization (2007), R Salakhutdinov, A Mnih.
-  [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)  [[code]](https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python)
+- **PFM**: Probabilistic Matrix Factorization // NIPS'07. [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)  [[code]](https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python)
+```
+@inproceedings{Salakhutdinov:2007:PMF:2981562.2981720,
+ author = {Salakhutdinov, Ruslan and Mnih, Andriy},
+ title = {Probabilistic Matrix Factorization},
+ booktitle = {Proceedings of the 20th International Conference on Neural Information Processing Systems},
+ series = {NIPS'07},
+ year = {2007},
+ isbn = {978-1-60560-352-0},
+ location = {Vancouver, British Columbia, Canada},
+ pages = {1257--1264},
+ numpages = {8},
+ url = {http://dl.acm.org/citation.cfm?id=2981562.2981720},
+ acmid = {2981720},
+ publisher = {Curran Associates Inc.},
+ address = {USA},
+} 
+```
 
 
 ### Click-Through-Rate(CTR) Prediction
