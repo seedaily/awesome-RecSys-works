@@ -43,7 +43,7 @@ Gook luck to every rec-sys learner.
 
 - Qu Y, Cai H, Ren K, et al. Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
 - Zhang W, Du T, Wang J, et al. Deep Learning over Multi-field Categorical Data[C]. european conference on information retrieval, 2016: 45-57.
-- Guo H, Tang R, Ye Y, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://arxiv.org/pdf/1703.04247.pdf)
+
 - Xiao J, Ye H, He X, et al. Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks[J]. 2017.[[pdf]](https://ru.arxiv.org/pdf/1708.04617.pdf)
 - Chen J, Sun B, Li H, et al. Deep ctr prediction in display 
   advertising[C]//Proceedings of the 2016 ACM on Multimedia Conference. 
@@ -141,6 +141,8 @@ which is the main direction of my work in the future.
 
 
 ### Click-Through-Rate(CTR) Prediction
+- **DeepFM**:Guo H, Tang R, Ye Y, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf)
+
 - Predicting Clicks Estimating the click-through rate for new ads (2007),M Richardson, E Dominowska.
   [[pdf]](http://research.microsoft.com/en-us/um/people/mattri/papers/www2007/predictingclicks.pdf)
 
