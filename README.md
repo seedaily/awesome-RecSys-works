@@ -141,7 +141,20 @@ which is the main direction of my work in the future.
 
 
 ### Click-Through-Rate(CTR) Prediction
-- **DeepFM**:Guo H, Tang R, Ye Y, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf)
+- **DeepFM**:Guo H, Tang R, Ye Y, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://www.ijcai.org/proceedings/2017/0239.pdf) [[code](https://github.com/ChenglongChen/tensorflow-DeepFM)]
+```
+@inproceedings{ijcai2017-239,
+  author    = {Huifeng Guo and Ruiming TANG and Yunming Ye and Zhenguo Li and Xiuqiang He},
+  title     = {DeepFM: A Factorization-Machine based Neural Network for CTR Prediction},
+  booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI-17}},
+  pages     = {1725--1731},
+  year      = {2017},
+  doi       = {10.24963/ijcai.2017/239},
+  url       = {https://doi.org/10.24963/ijcai.2017/239},
+}
+
+```
 
 - Predicting Clicks Estimating the click-through rate for new ads (2007),M Richardson, E Dominowska.
   [[pdf]](http://research.microsoft.com/en-us/um/people/mattri/papers/www2007/predictingclicks.pdf)
