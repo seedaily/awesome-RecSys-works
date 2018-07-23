@@ -149,7 +149,7 @@ which is the main direction of my work in the future.
 
 ### Click-Through-Rate(CTR) Prediction
 
-- **FM**: Factorization Machines// ICDM 2010.[[pdf]](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) [[code](https://github.com/coreylynch/pyFM)]
+- **FM**: Factorization Machines// ICDM 2010.[[pdf]](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) [[code](https://github.com/coreylynch/pyFM)] [[tffm](https://github.com/geffy/tffm)]
 ```
 @inproceedings{Rendle:2010:FM:1933307.1934620,
  author = {Rendle, Steffen},
