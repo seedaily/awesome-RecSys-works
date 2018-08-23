@@ -255,6 +255,27 @@ which is the main direction of my work in the future.
 
 ```
 
+- **xDeepFM**: xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems// KDD'2018.[[pdf]](https://arxiv.org/pdf/1803.05170.pdf) [[Tensorflow](https://github.com/Leavingseason/xDeepFM)]
+```
+@inproceedings{Lian:2018:XCE:3219819.3220023,
+ author = {Lian, Jianxun and Zhou, Xiaohuan and Zhang, Fuzheng and Chen, Zhongxia and Xie, Xing and Sun, Guangzhong},
+ title = {xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems},
+ booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+ series = {KDD '18},
+ year = {2018},
+ isbn = {978-1-4503-5552-0},
+ location = {London, United Kingdom},
+ pages = {1754--1763},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3219819.3220023},
+ doi = {10.1145/3219819.3220023},
+ acmid = {3220023},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {deep learning, factorization machines, feature interactions, neural network, recommender systems},
+} 
+```
+
 - Predicting Clicks Estimating the click-through rate for new ads (2007),M Richardson, E Dominowska.
   [[pdf]](http://research.microsoft.com/en-us/um/people/mattri/papers/www2007/predictingclicks.pdf)
 
