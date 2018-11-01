@@ -42,6 +42,12 @@ That's why I put these papers ahead.
 I also did some research about the ctr prediction,
 which is the main direction of my work in the future.
 
+### Datasets
+
+- **KASANDR**:KASANDR: A Large-Scale Dataset with Implicit Feedback for Recommendation (SIGIR 2017).
+  [[pdf]](http://ama.liglab.fr/~sidana/PDF/SIGIR17_short) [[KASANDR Data Set ](http://archive.ics.uci.edu/ml/datasets/KASANDR)]
+
+
 ### Deep Learning and Recommendations
 
 - **Caser**:Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding (WSDM 2018).
