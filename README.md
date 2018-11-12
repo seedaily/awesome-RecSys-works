@@ -282,6 +282,27 @@ which is the main direction of my work in the future.
 } 
 ```
 
+- **DIN**: DIN: Deep Interest Network for Click-Through Rate Prediction// KDD'2018.[[pdf]](https://arxiv.org/pdf/1706.06978.pdf) [[Tensorflow](https://github.com/zhougr1993/DeepInterestNetwork)]
+```
+@inproceedings{Zhou:2018:DIN:3219819.3219823,
+ author = {Zhou, Guorui and Zhu, Xiaoqiang and Song, Chenru and Fan, Ying and Zhu, Han and Ma, Xiao and Yan, Yanghui and Jin, Junqi and Li, Han and Gai, Kun},
+ title = {Deep Interest Network for Click-Through Rate Prediction},
+ booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+ series = {KDD '18},
+ year = {2018},
+ isbn = {978-1-4503-5552-0},
+ location = {London, United Kingdom},
+ pages = {1059--1068},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3219819.3219823},
+ doi = {10.1145/3219819.3219823},
+ acmid = {3219823},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {click-through rate prediction, display advertising, e-commerce},
+} 
+```
+
 - **DIEN**: DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction// Alibaba Inc.[[pdf]](https://arxiv.org/abs/1809.03672?from=timeline&isappinstalled=0) [[Tensorflow](https://github.com/mouna99/dien)]
 ```
 @article{zhou2018deep,
