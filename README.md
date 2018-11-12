@@ -282,6 +282,16 @@ which is the main direction of my work in the future.
 } 
 ```
 
+- **DIEN**: DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction// Alibaba Inc.[[pdf]](https://arxiv.org/abs/1809.03672?from=timeline&isappinstalled=0) [[Tensorflow](https://github.com/mouna99/dien)]
+```
+@article{zhou2018deep,
+  title={Deep Interest Evolution Network for Click-Through Rate Prediction},
+  author={Zhou, Guorui and Mou, Na and Fan, Ying and Pi, Qi and Bian, Weijie and Zhou, Chang and Zhu, Xiaoqiang and Gai, Kun},
+  journal={arXiv preprint arXiv:1809.03672},
+  year={2018}
+}
+```
+
 - Predicting Clicks Estimating the click-through rate for new ads (2007),M Richardson, E Dominowska.
   [[pdf]](http://research.microsoft.com/en-us/um/people/mattri/papers/www2007/predictingclicks.pdf)
 
