@@ -42,6 +42,29 @@ That's why I put these papers ahead.
 I also did some research about the ctr prediction,
 which is the main direction of my work in the future.
 
+### Knowledge Graph
+
+- **RippleNet**: RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems // CIKM 2018. [[pdf]](https://arxiv.org/abs/1803.03467)  [[code]](https://github.com/hwwang55/RippleNet)
+```
+@inproceedings{Wang:2018:RPU:3269206.3271739,
+ author = {Wang, Hongwei and Zhang, Fuzheng and Wang, Jialin and Zhao, Miao and Li, Wenjie and Xie, Xing and Guo, Minyi},
+ title = {RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems},
+ booktitle = {Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+ series = {CIKM '18},
+ year = {2018},
+ isbn = {978-1-4503-6014-2},
+ location = {Torino, Italy},
+ pages = {417--426},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3269206.3271739},
+ doi = {10.1145/3269206.3271739},
+ acmid = {3271739},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {knowledge graph, preference propagation, recommender systems},
+} 
+```
+
 ### Datasets
 
 - **KASANDR**:KASANDR: A Large-Scale Dataset with Implicit Feedback for Recommendation (SIGIR 2017).
