@@ -42,6 +42,29 @@ That's why I put these papers ahead.
 I also did some research about the ctr prediction,
 which is the main direction of my work in the future.
 
+### Transfer Learning
+You are what apps you use: Transfer Learning for Personalized Content and Ad Recommendation
+[[pdf]](http://delivery.acm.org/10.1145/3110000/3109923/p350-yan.pdf?ip=183.63.97.227&id=3109923&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E8AF5215FEFE1B25A&__acm__=1547606499_f1a7d4dc3f2fdbef070f9b368a513589)
+```
+@inproceedings{Yan:2017:YAY:3109859.3109923,
+ author = {Yan, Zhixian and Wei, Lai and Lu, Yunshan and Wu, Zhongqiang and Tao, Bo},
+ title = {You Are What Apps You Use: Transfer Learning for Personalized Content and Ad Recommendation},
+ booktitle = {Proceedings of the Eleventh ACM Conference on Recommender Systems},
+ series = {RecSys '17},
+ year = {2017},
+ isbn = {978-1-4503-4652-8},
+ location = {Como, Italy},
+ pages = {350--350},
+ numpages = {1},
+ url = {http://doi.acm.org/10.1145/3109859.3109923},
+ doi = {10.1145/3109859.3109923},
+ acmid = {3109923},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {personalized recommendation, transfer learning, user profile},
+}
+```
+
 ### Knowledge Graph
 
 - **RippleNet**: RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems // CIKM 2018. [[pdf]](https://arxiv.org/abs/1803.03467)  [[code]](https://github.com/hwwang55/RippleNet)
